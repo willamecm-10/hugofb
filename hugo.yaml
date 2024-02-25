@@ -1,0 +1,4 @@
+baseURL: "https://willamecm-10.github.io/hugofb/"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
